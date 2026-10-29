@@ -1,0 +1,9 @@
+{
+  "name": "strait-ui-bridge",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node bin/bridge.mjs" },
+  "dependencies": { "sql.js": "1.14.1" }
+}

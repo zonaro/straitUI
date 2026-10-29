@@ -1,0 +1,15 @@
+.dart_tool/
+.flutter-plugins*
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+*.iml
+.idea/
+.vscode/
+bridge/node_modules/
+bridge/.cache/
+**/.DS_Store
+tmp/
+
